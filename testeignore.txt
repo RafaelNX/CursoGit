@@ -1,0 +1,2 @@
+arquivo para ser ignorado pelo git ignore
+
